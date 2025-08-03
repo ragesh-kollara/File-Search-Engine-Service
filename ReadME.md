@@ -1,3 +1,4 @@
+# File-Search-Engine-Service
 PDF Search Engine API
 A Spring Boot-based REST API service to search for a keyword in PDF files located in a configured directory. The service scans all PDF files in the directory and returns the list of file names containing the keyword.
 
